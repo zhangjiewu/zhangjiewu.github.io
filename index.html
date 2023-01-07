@@ -1,0 +1,294 @@
+<!DOCTYPE HTML>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <title>Zhangjie Wu</title>
+  
+  <meta name="author" content="Jay Zhangjie Wu">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="stylesheet" type="text/css" href="stylesheet.css">
+  <link rel="icon" href="images/Jay.ico">
+</head>
+
+<body>
+  <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+    <tr style="padding:0px">
+      <td style="padding:0px">
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+          <tr style="padding:0px">
+            <td style="padding:2.5%;width:63%;vertical-align:middle">
+              <p style="text-align:center">
+                <name>Jay Zhangjie Wu</name>
+                <br>jay.zhangjie.wu [at] gmail.com
+              </p>
+              <p>
+                I am a Ph.D. student at <a href="https://ids.nus.edu.sg/">Institute of Data Science</a>, <a href="https://www.nus.edu.sg/">National University of Singapore</a>, advised by <a href="https://sites.google.com/view/showlab">Asst. Prof. Mike Zheng Shou</a> and <a href="https://www.comp.nus.edu.sg/~whsu/">Prof. Wynne Hsu</a>. 
+                I received my B.Eng. in Computer Science from <a href="http://hc.buaa.edu.cn/">Shen Yuan Honors College</a> of <a href="">Beihang University</a>.
+              </p>
+              <p>
+                My research interests include computer vision and deep learning, focusing on continuous video understanding and generation. 
+              </p>
+              <p>
+              </p>
+              <p style="text-align:center">
+                <a href="mailto:jay.zhangjie.wu@gmail.com">Email</a> &nbsp/&nbsp
+                <a href="data/Jay-CV.pdf">CV</a> &nbsp/&nbsp
+                <a href="https://scholar.google.com/citations?user=WVp4yjoAAAAJ&hl=en&oi=ao">Google Scholar</a> &nbsp/&nbsp
+                <a href="https://twitter.com/jayzhangjiewu">Twitter</a> &nbsp/&nbsp
+                <a href="https://www.linkedin.com/in/jay-z-wu-86460419b/">LinkedIn</a> &nbsp/&nbsp
+                <a href="https://github.com/zhangjiewu/">Github</a>
+              </p>
+            </td>
+            <td style="padding:2.5%;width:40%;max-width:40%">
+              <img style="width:100%;max-width:100%" alt="profile photo" src="images/Jay.png" class="hoverZoomLink">
+            </td>
+          </tr>
+        </tbody></table>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr>
+            <td style="padding:20px;width:100%;vertical-align:middle">
+              <heading>Research</heading>
+              <p>
+                Selected publications are <span class="highlight">highlighted</span>. (* equal contribution)
+              </p>
+            </td>
+          </tr>
+        </tbody></table>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+
+          <tr onmouseout="tuneavideo_stop()" onmouseover="tuneavideo_start()" bgcolor="#ffffd0">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <!-- <div class="two" id='tuneavideo_image'><video  width=100% height=100% muted autoplay loop>
+                <source src="images/tuneavideo.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+                </video></div> -->
+                <div class="two" id='tuneavideo_image'><img src='images/tuneavideo_after.gif' width="160"></div>
+                <img src='images/tuneavideo_before.gif' width="160">
+              </div>
+              <script type="text/javascript">
+                function tuneavideo_start() {
+                  document.getElementById('tuneavideo_image').style.opacity = "1";
+                }
+
+                function tuneavideo_stop() {
+                  document.getElementById('tuneavideo_image').style.opacity = "0";
+                }
+                tuneavideo_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://tuneavideo.github.io/">
+                <papertitle>Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation
+                </papertitle>
+              </a>
+              <br>
+              <strong>Jay Zhangjie Wu</strong>,
+              <a href="https://geyixiao.com/">Yixiao Ge</a>,
+              <a href="https://xinntao.github.io/">Xintao Wang</a>,
+							<a href="">Stan Weixian Lei</a>
+              <a href="https://ycgu.site/">Yuchao Gu</a>,
+              <a href="https://www.comp.nus.edu.sg/~whsu/">Wynne Hsu</a>,
+              <a href="https://scholar.google.com/citations?user=4oXBp9UAAAAJ&hl=en">Ying Shan</a>,
+              <a href="https://scholar.google.com/citations?user=mk-F69UAAAAJ&hl=en">Xiaohu Qie</a>,
+              <a href="https://sites.google.com/view/showlab">Mike Zheng Shou</a>
+              <br>
+              <em>arXiv</em>, 2022
+              <br>
+              <a href="https://tuneavideo.github.io/">project page</a>
+              /
+              <a href="https://arxiv.org/abs/2212.11565">arXiv</a>
+              /
+              <a href="https://github.com/showlab/Tune-A-Video">code (coming soon)</a>
+              <p></p>
+              <p>
+              A new method for text-to-video generation by fine-tuning image diffusion models over one text-video pair.
+              </p>
+            </td>
+          </tr>
+
+          <tr onmouseout="leocod_stop()" onmouseover="leocod_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='leocod_image'>
+                  <img src='images/leocod_after.png' width="160"></div>
+                <img src='images/leocod_before.png' width="160">
+              </div>
+              <script type="text/javascript">
+                function leocod_start() {
+                  document.getElementById('leocod_image').style.opacity = "1";
+                }
+
+                function leocod_stop() {
+                  document.getElementById('leocod_image').style.opacity = "0";
+                }
+                leocod_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://arxiv.org/abs/2206.00309">
+                <papertitle>Label-Efficient Online Continual Object Detection in Streaming Video</papertitle>
+              </a>
+              <br>
+              <strong>Jay Zhangjie Wu</strong>, 
+              <a href="https://junhaozhang98.github.io/">David Junhao Zhang</a>, 
+              <a href="https://www.comp.nus.edu.sg/~whsu/">Wynne Hsu</a>,
+              <a href="https://a0091624.wixsite.com/deepneurocognition-1">Mengmi Zhang</a>,
+              <a href="https://sites.google.com/view/showlab">Mike Zheng Shou</a>
+              <br>
+              <em>arXiv</em>, 2022
+              <br>
+              <a href="https://arxiv.org/abs/2206.00309">arXiv</a>
+              <p></p>
+              <p>
+                Towards label-efficient online continual object detection in video streams, our Efficient-CLS model only uses 25% annotation costs while it still outperforms the best baseline.              </p>
+            </td>
+          </tr>		
+		  
+          <tr onmouseout="clvqa_stop()" onmouseover="clvqa_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='clvqa_image'>
+                  <img src='images/clvqa_after.png' width="160"></div>
+                <img src='images/clvqa_before.png' width="160">
+              </div>
+              <script type="text/javascript">
+                function clvqa_start() {
+                  document.getElementById('clvqa_image').style.opacity = "1";
+                }
+                function clvqa_stop() {
+                  document.getElementById('clvqa_image').style.opacity = "0";
+                }
+                clvqa_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://arxiv.org/abs/2208.12037">
+                <papertitle>Symbolic Replay: Scene Graph as Prompt for Continual Learning on VQA Task</papertitle>
+              </a>
+              <br>
+              <a href="">Stan Weixian Lei*</a>, 
+              <a href="https://scholar.google.com/citations?user=No9OsocAAAAJ&hl=en">Difei Gao*</a>, 
+              <strong>Jay Zhangjie Wu</strong>,              
+              <a href="https://yuxuanw.me/">Yuxuan Wang</a>, 
+              <a href="https://sites.google.com/view/cuweiliu/home">Wei Liu</a>, 
+              <a href="https://a0091624.wixsite.com/deepneurocognition-1">Mengmi Zhang</a>,
+              <a href="https://sites.google.com/view/showlab">Mike Zheng Shou</a>
+              <br>
+              <em>AAAI</em>, 2023
+              <br>
+              <a href="https://arxiv.org/abs/2208.12037">arXiv</a>
+              /
+              <a href="https://github.com/showlab/CLVQA">code</a>
+              /              
+              <a href="https://github.com/showlab/CLVQA">data</a>
+              <p></p>
+              <p>
+                The first continual learning work for VQA.
+              </p>
+            </td>
+          </tr>		
+
+          <tr onmouseout="egfr_stop()" onmouseover="egfr_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='egfr_image'>
+                  <img src='images/egfr_after.png' width="160"></div>
+                <img src='images/egfr_before.png' width="160">
+              </div>
+              <script type="text/javascript">
+                function egfr_start() {
+                  document.getElementById('egfr_image').style.opacity = "1";
+                }
+
+                function egfr_stop() {
+                  document.getElementById('egfr_image').style.opacity = "0";
+                }
+                egfr_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00024-3/fulltext">
+                <papertitle>Mining whole-lung information by artificial intelligence for predicting EGFR genotype and targeted therapy response in lung cancer: a multicohort study</papertitle>
+              </a>
+              <br>
+              <a href="https://scholar.google.com/citations?user=XGvcpgsAAAAJ&hl=en&authuser=2">Shuo Wang*</a>, 
+              <a href="">He Yu*</a>, 
+              <a href="">Yuncui Gan*</a>, 
+              <strong>Zhangjie Wu</strong>,              
+              et. al
+              <br>
+              <em>The Lancet Digital Health</em>, 2022
+              <br>
+              <a href="https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00024-3/fulltext">paper</a>
+              /
+              <a href="http://bhkj.buaa.edu.cn/info/1013/7410.htm">news</a>
+              <p></p>
+              <p>
+              We proposed a fully automated AI system that mines whole-lung information from CT images to predict EGFR genotype and prognosis with EGFR-TKI treatment
+              </p>
+            </td>
+          </tr>		
+
+          <tr onmouseout="opixray_stop()" onmouseover="opixray_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='opixray_image'>
+                  <img src='images/opixray_after.png' width="160"></div>
+                <img src='images/opixray_before.png' width="160">
+              </div>
+              <script type="text/javascript">
+                function opixray_start() {
+                  document.getElementById('opixray_image').style.opacity = "1";
+                }
+
+                function opixray_stop() {
+                  document.getElementById('opixray_image').style.opacity = "0";
+                }
+                opixray_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://arxiv.org/abs/2004.08656">
+                <papertitle>Occluded Prohibited Items Detection: An X-ray Security Inspection Benchmark and De-occlusion Attention Module</papertitle>
+              </a>
+              <br>
+              <a href="">Yanlu Wei*</a>, 
+              <a href="https://rstao95.github.io/">Renshuai Tao*</a>, 
+              <strong>Zhangjie Wu</strong>,              
+              <a href="https://vickyfox.github.io/">Yuqing Ma</a>, 
+              <a href="">Libo Zhang</a>,
+              <a href="https://xlliu-beihang.github.io/">Xianglong Liu</a>
+              <br>
+              <em>ACM Multimedia</em>, 2020
+              <br>
+              <a href="https://arxiv.org/abs/2004.08656">arXiv</a>
+              /
+              <a href="https://github.com/OPIXray-author/OPIXray">code</a>
+              /              
+              <a href="https://github.com/OPIXray-author/OPIXray">data</a>
+              <p></p>
+              <p>
+              The first high-quality benchmark for X-ray security inspection.
+              </p>
+            </td>
+          </tr>		
+
+        </tbody></table>
+
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+          <tr>
+            <td style="padding:0px">
+              <br>
+              <p style="text-align:right;font-size:small;">
+                <a href="https://jonbarron.info/">website template credit</a> 
+              </p>
+            </td>
+          </tr>
+        </tbody></table>
+      </td>
+    </tr>
+  </table>
+</body>
+
+</html>
