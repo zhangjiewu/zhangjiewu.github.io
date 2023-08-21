@@ -1,0 +1,57 @@
+main:
+
+  - title: "Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models"
+    authors: Yuchao Gu, Xintao Wang, <strong>Jay Zhangjie Wu</strong>, Yujun Shi, Yunpeng Chen, Zihan Fan, Wuyou Xiao, Rui Zhao, Shuning Chang, Weijia Wu, Yixiao Ge, Ying Shan, Mike Zheng Shou
+    conference_short: arXiv
+    conference: arXiv, 2023.
+    page: https://showlab.github.io/Mix-of-Show/
+    arxiv: https://arxiv.org/abs/2305.18292
+    code: https://github.com/TencentARC/Mix-of-Show
+    github_stars: TencentARC/Mix-of-Show
+    image: ./assets/teaser/mixofshow.png
+
+  - title: "Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation"
+    authors: <strong>Jay Zhangjie Wu</strong>, Yixiao Ge, Xintao Wang, Stan Weixian Lei, Yuchao Gu, Yufei Shi, Wynne Hsu, Ying Shan, Xiaohu Qie, Mike Zheng Shou
+    conference_short: ICCV
+    conference: IEEE Conference on International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.
+    page: https://tuneavideo.github.io/
+    arxiv: https://arxiv.org/abs/2212.11565
+    code: https://github.com/showlab/Tune-A-Video
+    github_stars: showlab/Tune-A-Video
+    github_folks: showlab/Tune-A-Video
+    demo: https://colab.research.google.com/github/showlab/Tune-A-Video/blob/main/notebooks/Tune-A-Video.ipynb
+    image: ./assets/teaser/tuneavideo.gif
+
+  - title: "Label-Efficient Online Continual Object Detection in Streaming Video"
+    authors: <strong>Jay Zhangjie Wu</strong>, David Junhao Zhang, Wynne Hsu, Mengmi Zhang, Mike Zheng Shou
+    conference_short: ICCV
+    conference: IEEE Conference on International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.
+    arxiv: https://arxiv.org/abs/2206.00309
+    code: https://github.com/showlab/Efficient-CLS
+    image: ./assets/teaser/leocod.png
+
+  - title: "Symbolic Replay: Scene Graph as Prompt for Continual Learning on VQA Task"
+    authors: Stan Weixian Lei*, Difei Gao*, <strong>Jay Zhangjie Wu</strong>, Yuxuan Wang, Wei Liu, Mengmi Zhang, Mike Zheng Shou
+    conference_short: AAAI
+    conference: The AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2023.
+    arxiv: https://arxiv.org/abs/2208.12037
+    code: https://github.com/showlab/CLVQA
+    image: ./assets/teaser/clvqa.png
+    notes: Oral Presentation
+
+  - title: "Mining whole-lung information by artificial intelligence for predicting EGFR genotype and targeted therapy response in lung cancer: a multicohort study"
+    authors: Shuo Wang*, He Yu*, Yuncui Gan*, <strong>Zhangjie Wu</strong>, et. al
+    conference_short: The Lancet Digital Health
+    conference: The Lancet Digital Health, 2022.
+    pdf: https://www.thelancet.com/action/showPdf?pii=S2589-7500%2822%2900024-3
+    image: ./assets/teaser/egfr.png
+    notes: IF=36.615
+
+  - title: "Occluded Prohibited Items Detection: An X-ray Security Inspection Benchmark and De-occlusion Attention Module"
+    authors: Yanlu Wei*, Renshuai Tao*, <strong>Zhangjie Wu</strong>, Yuqing Ma, Libo Zhang, Xianglong Liu
+    conference_short: ACM MM
+    conference: ACM Multimedia <strong>(ACM MM)</strong>, 2020.
+    arxiv: https://arxiv.org/abs/2004.08656
+    code: https://github.com/OPIXray-author/OPIXray
+    image: ./assets/teaser/opixray.png
+    notes: Oral Presentation

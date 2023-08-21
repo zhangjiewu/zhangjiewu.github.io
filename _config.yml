@@ -1,0 +1,51 @@
+# Basic Information 
+title: Zhangjie Wu
+position: Ph.D. Student
+affiliation: National University of Singapore
+affiliation_link: https://nus.edu.sg/
+affiliation_logo: ./assets/img/NUS_coat_of_arms.svg
+email: jay.zhangjie.wu (at) gmail.com
+
+# Search Engine Optimization (SEO)
+# The following information is used to improve the website traffic from search engines, e.g., Google.
+keywords: jay zhangjie wu, zhangjie wu, wu zhangjie, jay wu
+description: Zhangjie Wu is a Ph.D. student at Show Lab, National University of Singapore.
+canonical: https://zhangjiewu.github.io/
+
+# Links 
+# If you don't need one of them, you may delete the corresponding line.
+google_scholar: https://scholar.google.com/citations?user=WVp4yjoAAAAJ&hl=en&oi=ao
+# cv_link: assets/files/curriculum_vitae.pdf
+github_link: https://github.com/zhangjiewu/
+linkedin: https://www.linkedin.com/in/jay-zhangjie-wu-86460419b/
+twitter: https://twitter.com/jayzhangjiewu
+
+# Images (e.g., your profile picture and your website's favicon) 
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+avatar: ./assets/img/jay.png
+favicon: ./assets/img/NUS_coat_of_arms.svg
+favicon_dark: ./assets/img/NUS_coat_of_arms.svg
+
+# Footnote
+# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+enable_footnote: true
+
+# Auto Dark Mode
+# You may use the option to disable the automatic dark theme
+auto_dark_mode: true
+
+# Font
+# You can use this option to choose between Serif or Sans Serif fonts.
+font: "Serif" # or "Sans Serif"
+
+# The following files will be removed from the generated website.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - README_zh_Hans.md
+  - README_zh_Hant.md
+  - README_de.md
+  - LICENSE
+  - minimal-light.gemspec
+  - html_source_file/
