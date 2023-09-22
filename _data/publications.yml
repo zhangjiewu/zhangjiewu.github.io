@@ -2,8 +2,8 @@ main:
 
   - title: "Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models"
     authors: Yuchao Gu, Xintao Wang, <strong>Jay Zhangjie Wu</strong>, Yujun Shi, Yunpeng Chen, Zihan Fan, Wuyou Xiao, Rui Zhao, Shuning Chang, Weijia Wu, Yixiao Ge, Ying Shan, Mike Zheng Shou
-    conference_short: arXiv
-    conference: arXiv, 2023.
+    conference_short: NeurIPS
+    conference: Thirty-seventh Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
     page: https://showlab.github.io/Mix-of-Show/
     arxiv: https://arxiv.org/abs/2305.18292
     code: https://github.com/TencentARC/Mix-of-Show
