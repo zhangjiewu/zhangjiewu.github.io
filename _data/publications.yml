@@ -1,5 +1,15 @@
 main:
 
+  - title: "Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation"
+    authors: David Junhao Zhang*, <strong>Jay Zhangjie Wu*</strong>, Jia-Wei Liu*, Rui Zhao, Lingmin Ran, Yuchao Gu, Difei Gao, Mike Zheng Shou (* equal contribution)
+    conference_short: arXiv
+    conference: arXiv, 2023.
+    page: https://showlab.github.io/Show-1/
+    arxiv: https://arxiv.org/abs/2309.15818
+    code: https://github.com/showlab/Show-1
+    github_stars: showlab/Show-1
+    image: ./assets/teaser/show1.gif
+
   - title: "Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models"
     authors: Yuchao Gu, Xintao Wang, <strong>Jay Zhangjie Wu</strong>, Yujun Shi, Yunpeng Chen, Zihan Fan, Wuyou Xiao, Rui Zhao, Shuning Chang, Weijia Wu, Yixiao Ge, Ying Shan, Mike Zheng Shou
     conference_short: NeurIPS
