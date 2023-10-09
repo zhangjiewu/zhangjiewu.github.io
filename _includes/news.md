@@ -4,3 +4,4 @@
 - **[Jul. 2023]** Two first author papers accepted by ICCV 2023.
 - **[Jun. 2023]** Organized [**LOVEU-TGVE**](https://sites.google.com/view/loveucvpr23/track4) (Text-Guided Video Editing) competition at CVPR 2023.
 - **[Apr. 2023]** Invited talk at KAUST IVUL-Video Understanding Seminar.
+- **[Apr. 2023]** Searching for papers on video diffusion models? Check out our GitHub repo [**Awesome-Video-Diffusion**](https://github.com/showlab/Awesome-Video-Diffusion) [![](https://img.shields.io/github/stars/showlab/Awesome-Video-Diffusion?style=social)](https://github.com/showlab/Awesome-Video-Diffusion).
