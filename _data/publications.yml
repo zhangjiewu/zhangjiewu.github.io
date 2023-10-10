@@ -55,7 +55,7 @@ main:
     conference: The Lancet Digital Health, 2022.
     pdf: https://www.thelancet.com/action/showPdf?pii=S2589-7500%2822%2900024-3
     image: ./assets/teaser/egfr.png
-    notes: IF=36.615
+    notes: IF=30.8
 
   - title: "Occluded Prohibited Items Detection: An X-ray Security Inspection Benchmark and De-occlusion Attention Module"
     authors: Yanlu Wei*, Renshuai Tao*, <strong>Zhangjie Wu</strong>, Yuqing Ma, Libo Zhang, Xianglong Liu
