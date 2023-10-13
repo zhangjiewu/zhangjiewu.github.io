@@ -1,5 +1,15 @@
 main:
 
+  - title: "MotionDirector: Motion Customization of Text-to-Video Diffusion Models"
+    authors: Rui Zhao, Yuchao Gu, <strong>Jay Zhangjie Wu</strong>, David Junhao Zhang, Jiawei Liu, Weijia Wu, Jussi Keppo, Mike Zheng Shou
+    conference_short: arXiv
+    conference: arXiv, 2023.
+    page: https://showlab.github.io/MotionDirector/
+    arxiv: https://arxiv.org/abs/2310.08465
+    code: https://github.com/showlab/MotionDirector
+    github_stars: showlab/MotionDirector
+    image: ./assets/teaser/motiondirector.gif
+
   - title: "Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation"
     authors: David Junhao Zhang*, <strong>Jay Zhangjie Wu*</strong>, Jia-Wei Liu*, Rui Zhao, Lingmin Ran, Yuchao Gu, Difei Gao, Mike Zheng Shou (* equal contribution)
     conference_short: arXiv
