@@ -1,5 +1,13 @@
 main:
 
+  - title: "DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing"
+    authors: Jia-Wei Liu, Yan-Pei Cao, <strong>Jay Zhangjie Wu</strong>, Weijia Mao, Yuchao Gu, Rui Zhao, Jussi Keppo, Ying Shan, Mike Zheng Shou
+    conference_short: arXiv
+    conference: arXiv, 2023.
+    page: https://showlab.github.io/DynVideo-E/
+    arxiv: https://arxiv.org/abs/2310.10624
+    image: ./assets/teaser/dynvideoe.gif
+
   - title: "MotionDirector: Motion Customization of Text-to-Video Diffusion Models"
     authors: Rui Zhao, Yuchao Gu, <strong>Jay Zhangjie Wu</strong>, David Junhao Zhang, Jiawei Liu, Weijia Wu, Jussi Keppo, Mike Zheng Shou
     conference_short: arXiv
