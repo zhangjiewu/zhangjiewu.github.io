@@ -6,4 +6,4 @@
 - **[Jun. 2023]** Organized [**LOVEU-TGVE**](https://sites.google.com/view/loveucvpr23/track4) (Text-Guided Video Editing) competition at CVPR 2023.
 - **[Apr. 2023]** Invited talk at KAUST IVUL-Video Understanding Seminar.
 - **[Apr. 2023]** Searching for papers on video diffusion models? Check out our GitHub repo [**Awesome-Video-Diffusion**](https://github.com/showlab/Awesome-Video-Diffusion) [![](https://img.shields.io/github/stars/showlab/Awesome-Video-Diffusion?style=social)](https://github.com/showlab/Awesome-Video-Diffusion).
-- **[Jan. 2023]** [**Tune-A-Video**](https://tuneavideo.github.io/) [![](https://img.shields.io/github/stars/showlab/Tune-A-Video?style=social)](https://github.com/showlab/Awesome-Video-Diffusion) is featured in [**Two Minute Papers**](https://www.youtube.com/watch?v=uzF6CTtjn-g).
+- **[Jan. 2023]** [**Tune-A-Video**](https://tuneavideo.github.io/) [![](https://img.shields.io/github/stars/showlab/Tune-A-Video?style=social)](https://github.com/showlab/Tune-A-Video) is featured in [**Two Minute Papers**](https://www.youtube.com/watch?v=uzF6CTtjn-g).
