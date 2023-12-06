@@ -1,5 +1,15 @@
 main:
 
+  - title: "VideoSwap: Customized Video Subject Swapping with Interactive Semantic Point Correspondence"
+    authors: Yuchao Gu, Yipin Zhou, Bichen Wu, Licheng Yu, Jia-Wei Liu, Rui Zhao, <strong>Jay Zhangjie Wu</strong>, David Junhao Zhang, Mike Zheng Shou, Kevin Tang
+    conference_short: arXiv
+    conference: arXiv, 2023.
+    page: https://videoswap.github.io/
+    arxiv: https://arxiv.org/abs/2312.02087
+    code: https://github.com/showlab/VideoSwap
+    github_stars: showlab/VideoSwap
+    image: ./assets/teaser/videoswap.gif
+
   - title: "DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing"
     authors: Jia-Wei Liu, Yan-Pei Cao, <strong>Jay Zhangjie Wu</strong>, Weijia Mao, Yuchao Gu, Rui Zhao, Jussi Keppo, Ying Shan, Mike Zheng Shou
     conference_short: arXiv
