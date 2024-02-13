@@ -1,5 +1,6 @@
 ## News
 
+- **[Dec. 2023]** Received [Student Research Award](https://ids.nus.edu.sg/gathering23.html) from NUS IDS.
 - **[Dec. 2023]** Invited talk at [**DAI 2023 Workshop on Continual Learning**](https://dai-cl.github.io/). 
 - **[Oct. 2023]** Received Research Incentive Award from NUS.
 - **[Oct. 2023]** Code and model weights of [**Show-1**](https://showlab.github.io/Show-1/) [![](https://img.shields.io/github/stars/showlab/Show-1?style=social)](https://github.com/showlab/Show-1) are released!
