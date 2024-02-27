@@ -8,7 +8,8 @@ I am Zhangjie Wu. I am a Ph.D. student at [Show Lab](https://sites.google.com/vi
 I was fortunate to work with [Dr. Yixiao Ge](https://geyixiao.com/) and [Dr. Xintao Wang](https://xinntao.github.io/) at [Tencent ARC Lab](https://arc.tencent.com/).
 I received my B.Eng. in Computer Science from [Shen Yuan Honors College](http://hc.buaa.edu.cn/) of [Beihang University](https://buaa.edu.cn/).
 
-My research interests include computer vision and deep learning, with a recent focus on video generative models.
+My research focuses on AI for video understanding and generation, including [Tune-A-Video](https://tuneavideo.github.io/), [Show-1](https://showlab.github.io/Show-1/), and [MotionDirector](https://showlab.github.io/MotionDirector/).
+
 
 {% include_relative _includes/news.md %}
 
