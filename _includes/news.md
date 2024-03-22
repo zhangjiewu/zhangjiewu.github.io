@@ -2,7 +2,7 @@
 
 - **[Feb. 2024]** Two papers accepted by CVPR 2024.
 - **[Feb. 2024]** Invited talk at [**The AI Talks**](https://t.co/dMN1RkVsIl).
-- **[Feb. 2024]** Tutorial "Diffusion-based Video Generative Models" accepted and to appear at CVPR 2024.
+- **[Feb. 2024]** Tutorial on [**Diffusion-based Video Generative Models**](https://showlab.github.io/cvpr2024-tutorial-video-diffusion-models/) to appear at CVPR 2024.
 - **[Dec. 2023]** Received [**IDS Student Research Award**](https://ids.nus.edu.sg/gathering23.html).
 - **[Dec. 2023]** Invited talk at [**DAI 2023 Workshop on Continual Learning**](https://dai-cl.github.io/). 
 - **[Oct. 2023]** Received NUS Research Incentive Award.
