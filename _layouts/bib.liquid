@@ -150,7 +150,8 @@
     <div class="periodical">
       {{ periodical | strip }}
       {% if entry.note %}
-        <a class="periodical"> · 
+        <a class="periodical">
+          ·
           <b>{{ entry.note | strip }}</b>
         </a>
       {% endif %}
