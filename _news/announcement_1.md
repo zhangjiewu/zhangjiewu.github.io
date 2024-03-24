@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-04-01
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Searching for papers on video diffusion models? Check out our GitHub repo [Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion) [![](https://img.shields.io/github/stars/showlab/Awesome-Video-Diffusion?style=social)](https://github.com/showlab/Awesome-Video-Diffusion).
