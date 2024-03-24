@@ -20,9 +20,9 @@ Previously, I received my B.Eng. in Computer Science from [Shen Yuan Honors Coll
 
 My research focuses on AI for video understanding and generation.
 
-<a href="mailto:{{ site.email | encode_email }}" title="email">email</a>: jay.zhangjie.wu [at] gmail.com
+<a href="mailto:jay.zhangjie.wu@gmail.com" title="email">email</a>: jay.zhangjie.wu [at] gmail.com
 
-<a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar">google scholar</a> ·
-<a href="https://github.com/{{ site.github_username }}" title="GitHub">github</a> ·
-<a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn">linkedin</a> ·
-<a href="https://twitter.com/{{ site.x_username }}" title="X">twitter</a>
+<a href="https://scholar.google.com/citations?user=WVp4yjoAAAAJ" title="Google Scholar">google scholar</a> ·
+<a href="https://zhangjiewu.github.io/" title="GitHub">github</a> ·
+<a href="https://www.linkedin.com/in/jay-zhangjie-wu-86460419b/" title="LinkedIn">linkedin</a> ·
+<a href="https://twitter.com/jayzhangjiewu" title="X">twitter</a>
