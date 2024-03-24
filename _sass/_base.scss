@@ -774,8 +774,10 @@ footer.sticky-bottom {
       }
 
       .links a + a:before {
-        content: " · ";
-        // padding: 0 5px;
+        content: "·";
+        display: inline-block;
+        text-decoration: none !important;
+        padding-right: 4px;
         color: #000; /* Adjust the color as needed */
       }
 
