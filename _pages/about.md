@@ -23,6 +23,6 @@ My research focuses on AI for video understanding and generation.
 <a href="mailto:jay.zhangjie.wu@gmail.com" title="email">email</a>: jay.zhangjie.wu [at] gmail.com
 
 <a href="https://scholar.google.com/citations?user=WVp4yjoAAAAJ" title="Google Scholar">google scholar</a> ·
-<a href="https://zhangjiewu.github.io/" title="GitHub">github</a> ·
+<a href="https://github.com/zhangjiewu" title="GitHub">github</a> ·
 <a href="https://www.linkedin.com/in/jay-zhangjie-wu-86460419b/" title="LinkedIn">linkedin</a> ·
 <a href="https://twitter.com/jayzhangjiewu" title="X">twitter</a>
