@@ -18,7 +18,7 @@ social: false # includes social icons at the bottom of the page
 I am a Ph.D. student at [Show Lab](https://sites.google.com/view/showlab/home?authuser=0), [National University of Singapore](https://www.nus.edu.sg/), advised by [Prof. Mike Zheng Shou](https://sites.google.com/view/showlab) and [Prof. Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/).
 Previously, I received my B.Eng. in Computer Science from [Shen Yuan Honors College](http://hc.buaa.edu.cn/) of [Beihang University](https://buaa.edu.cn/).
 
-I am building AI for video understanding and generation.
+My research centers on video understanding and generation.
 
 <a href="mailto:jay.zhangjie.wu@gmail.com" title="email">email</a>: jay.zhangjie.wu [at] gmail.com
 

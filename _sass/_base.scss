@@ -218,13 +218,19 @@ ul.task-list input[type="checkbox"] {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 25%;
 
     .address {
       p {
         display: block;
       }
     }
+  }
+}
+
+@media (max-width: 575.98px) {
+  .profile {
+    width: 40%;
   }
 }
 
