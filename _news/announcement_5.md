@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We're organizing [WorldModelBench: The First Workshop on Benchmarking World Foundation Models](https://sites.google.com/view/world-model-bench/home) at CVPR 2025.
+We're organizing [WorldModelBench: The First Workshop on Benchmarking World Foundation Models](https://worldmodelbench.github.io) at CVPR 2025.
