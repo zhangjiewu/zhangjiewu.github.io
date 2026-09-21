@@ -17,7 +17,7 @@ social: false # includes social icons at the bottom of the page
 
 I am currently working at a startup. Previously, I was a senior research scientist at [NVIDIA Spatial Intelligence Lab](https://research.nvidia.com/labs/sil/), where I was building frontier world foundation models for content creation and physical AI.
 
-I obtained my PhD from the [National University of Singapore](https://www.nus.edu.sg/), where I was advised by Prof. [Mike Shou](https://sites.google.com/view/showlab) and Prof. [Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/).
+I received my PhD from the [National University of Singapore](https://www.nus.edu.sg/), advised by Prof. [Mike Shou](https://sites.google.com/view/showlab) and Prof. [Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/).
 
 <a href="mailto:jay.zhangjie.wu@gmail.com" title="email">email</a>: jay.zhangjie.wu [at] gmail.com
 
