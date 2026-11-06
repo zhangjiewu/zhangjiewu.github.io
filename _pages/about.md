@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am currently working at a startup. Previously, I was a senior research scientist at [NVIDIA Spatial Intelligence Lab](https://research.nvidia.com/labs/sil/), where I was building frontier world foundation models for content creation and physical AI.
+I am currently working at a stealth startup. Previously, I was a senior research scientist at [NVIDIA Spatial Intelligence Lab](https://research.nvidia.com/labs/sil/), where I was building frontier world foundation models for content creation and physical AI.
 
 I received my PhD from the [National University of Singapore](https://www.nus.edu.sg/), advised by Prof. [Mike Shou](https://sites.google.com/view/showlab) and Prof. [Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/).
 
